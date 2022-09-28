@@ -19,4 +19,4 @@ Step 5 - Share:
 Visualizations were created using Tableau. Published [here](https://public.tableau.com/views/FedericoLlorden/Sheet1?:language=es-ES&:display_count=n&:origin=viz_share_link) and included in the PowerPoint presentation.
 
 Step 6 - Act:
-A PowerPoint presentation was compiled, included https://github.com/fllorden/Cyclistic-business-case-2021/blob/ffdee7e3c795fc5548baca797eb5dbfaed391465/Cyclistic%20-%20Annual%20Members%20vs%20Casual%20Members.pptx
+A PowerPoint presentation was compiled, included Cyclistic - Annual Members vs Casual Members.pptx
