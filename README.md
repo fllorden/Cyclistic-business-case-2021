@@ -1,4 +1,4 @@
-# Cyclistic-case-2021
+# Cyclistic-business-case-2021
 Final deliverables for the Cyclistic (Divvy bike) case, part of the Google Data Analytics Certificate
 
 Step 1 - Ask
