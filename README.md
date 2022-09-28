@@ -19,4 +19,4 @@ Step 5 - Share:
 Visualizations were created using Tableau. Published [here](https://public.tableau.com/views/FedericoLlorden/Sheet1?:language=es-ES&:display_count=n&:origin=viz_share_link) and included in the PowerPoint presentation.
 
 Step 6 - Act:
-A PowerPoint presentation was compiled - Cyclistic - Annual Members vs Casual Riders.pptx.
+A PowerPoint presentation was compiled, included here.
