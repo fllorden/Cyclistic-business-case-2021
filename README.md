@@ -2,7 +2,7 @@
 Final deliverables for the Cyclistic (Divvy bike) case, part of the Google Data Analytics Certificate
 
 Step 1 - Ask:
-Understand how annual members and casual riders use Cyclistic bikes differently in order to determine the best marketing strategy to convert casual riders into annual members.
+Understand how annual members and casual members use Cyclistic bikes differently in order to determine the best marketing strategy to convert casual members into annual members.
 
 Step 2 - Prepare:
 The data was downloaded directly from the Divvy Bikes website: https://www.divvybikes.com/system-data
@@ -16,7 +16,7 @@ Step 4 - Analyze:
 In this phase, queries were created to uncover trends that were highlighted in the data visualizations.
 
 Step 5 - Share:
-Visualisations were created using Tableau. Published [here](https://public.tableau.com/views/FedericoLlorden/Sheet1?:language=es-ES&:display_count=n&:origin=viz_share_link) and included in the powerpoint presentation.
+Visualizations were created using Tableau. Published [here](https://public.tableau.com/views/FedericoLlorden/Sheet1?:language=es-ES&:display_count=n&:origin=viz_share_link) and included in the PowerPoint presentation.
 
 Step 6 - Act:
-A powerpoint presentation was compiled - Cyclistic - Annual Members vs Casual Riders.pptx.
+A PowerPoint presentation was compiled - Cyclistic - Annual Members vs Casual Riders.pptx.
